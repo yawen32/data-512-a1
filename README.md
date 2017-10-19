@@ -15,8 +15,10 @@ GFDL: `https://www.gnu.org/copyleft/fdl.html`
 2. The Pageviews API: `https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews`
 3. Wekimedia REST API: `https://www.mediawiki.org/wiki/REST_API`
 4. Wekimedia REST API endpoint: 
+
 The legacy Pagecounts API:
 `https://wikimedia.org/api/rest_v1/#!/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end`
+
 The Pageviews API:
 `https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end`
 
